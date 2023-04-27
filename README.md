@@ -22,3 +22,4 @@ function greetings() {
 
 grettings();
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp6rt&hide=css,scss,html,php,swift)](https://github-readme-stats.vercel.app/api/top-langs/?username=jp6rt&hide=css,scss,html,php,swift)
