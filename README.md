@@ -13,7 +13,7 @@ function greetings() {
   aboutMe({
     name: 'Joey',
     currentRoles: ['Backend Developer', 'DevOps Engineer', 'Cloud Engineer'],
-    languages: ['javascript', 'typescript', 'go', 'hcl', 'bash'],
+    languages: ['javascript', 'typescript', 'go', 'bash'],
     favoriteQuote: 'It\'s not a battle for perfection but progress.'
   })
 }
