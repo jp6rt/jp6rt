@@ -12,8 +12,8 @@ function greetings() {
   
   aboutMe({
     name: 'Joey',
-    currentRoles: ['Backend Developer', 'DevOps Engineer', 'Cloud Engineer'],
-    languages: ['hcl', 'python', 'bash', 'javascript/typescript']
+    currentRoles: ['Software', 'DevOps', 'Data'],
+    languages: ['python', 'hcl', 'javascript']
   })
 }
 
