@@ -13,7 +13,7 @@ function greetings() {
   aboutMe({
     name: 'Joey',
     currentRoles: ['Software', 'DevOps', 'Data'],
-    languages: ['python', 'hcl', 'javascript']
+    languages: ['python', 'javascript']
   })
 }
 
