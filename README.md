@@ -19,7 +19,8 @@ function greetings() {
     findMeAt: {
       linkedIn: 'https://www.linkedin.com/in/jp6rt/',
       codewars: 'https://www.codewars.com/users/jp6rt'
-    }
+    },
+    myFavoriteQuote: 'The safest way to get what you want is to deserve what you want.'
   })
 }
 
