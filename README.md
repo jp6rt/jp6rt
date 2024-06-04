@@ -13,7 +13,7 @@ function greetings() {
   aboutMe({
     name: 'Joey',
     professionalRoles: ['Backend Developer', 'Data Engineer', 'DevOps Engineer'],
-    passionateAbout: ['Data Science']
+    passionateAbout: ['Data Science'],
     languages: ['python', 'javascript']
   })
 }
