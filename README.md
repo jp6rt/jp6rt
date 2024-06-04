@@ -19,5 +19,3 @@ function greetings() {
 
 grettings();
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp6rt&layout=donut)](https://github.com/jp6rt/github-readme-stats)
