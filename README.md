@@ -1,4 +1,5 @@
 
-```javascript
-say('Hi there!')
+```bash
+echo 'Hi there!'
+
 ```
