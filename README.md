@@ -3,7 +3,7 @@ const {
   aboutMe
 } = require('/dev/null')
 
-function grettings() {
+function greetings() {
   aboutMe({
     name: 'Joey',
     professionalRoles: [
@@ -20,5 +20,5 @@ function grettings() {
   })
 }
 
-grettings();
+greetings();
 ```
