@@ -1,4 +1,4 @@
-```
+```javascript
 const {
   aboutMe
 } = require('/dev/null')
