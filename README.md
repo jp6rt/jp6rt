@@ -12,11 +12,7 @@ function greetings() {
       'DevOps Engineer
     '],
     passionateAbout: ['Data Science', 'IOT Development with ESP32'],
-    languages: ['python', 'javascript'],
-    links: [
-      'https://www.codewars.com/users/jp6rt',
-      'https://www.linkedin.com/in/jp6rt/'
-    ]
+    languages: ['python', 'javascript']
   })
 }
 
