@@ -9,9 +9,9 @@ function greetings() {
     professionalRoles: [
       'Backend Developer',
       'Data Engineer',
-      'DevOps Engineer
+      'DevOps Engineer'
     '],
-    passionateAbout: ['Data Science', 'IOT Development with ESP32'],
+    passionateAbout: ['Data Science', 'IOT Development (ESP32)'],
     languages: ['python', 'javascript']
   })
 }
